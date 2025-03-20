@@ -1,0 +1,1000 @@
+ 1132  ls
+ 1133  cd machine\ learning\ projects/
+ 1134  ls
+ 1135  cd excel/
+ 1136  yt-dlp https://www.youtube.com/watch?v=1N3I2pLQpnY
+ 1137  snap list
+ 1138  flatpak list
+ 1139  snap list
+ 1140  yt-dlp -U
+ 1141  sudo yt-dlp -U
+ 1142  yt-dlp https://www.youtube.com/watch?v=1N3I2pLQpnY
+ 1143  yt-dlp https://www.youtube.com/watch?v=-9MsjI6pGks
+ 1144  yt-dlp https://www.youtube.com/watch?v=P6GQE0Bi68U
+ 1145  yt-dlp https://www.youtube.com/watch?v=JNovLDXUMGE
+ 1146  cd sql/
+ 1147  yt-dlp https://www.youtube.com/watch?v=JNovLDXUMGE
+ 1148  man yt-dlp
+ 1149  yt-dlp --help
+ 1150  yt-dlp https://www.youtube.com/watch?v=JNovLDXUMGE -o sql2
+ 1151  yt-dlp https://www.youtube.com/watch?v=9Z8HBPQyjoU -o sql3
+ 1152  yt-dlp https://www.youtube.com/watch?v=gvJe_z4tFrI -o sql4
+ 1153  cd ..
+ 1154  ls
+ 1155  mkdir powerbi
+ 1156  cd powerbi/
+ 1157  ls
+ 1158  yt-dlp https://www.youtube.com/watch?v=AZV0_W1E7ho -o 1
+ 1159  mkdir projects
+ 1160  cd projects/
+ 1161  cd ..
+ 1162  ls
+ 1163  cd python\ projects/
+ 1164  ls
+ 1165  yt-dlp https://www.youtube.com/watch?v=v2DjseL3DAQ -o "Web crawlers for image data sentiment analysis and product review sentiment analysis"
+ 1166  cd ..
+ 1167  cd databases/
+ 1168  yt-dlp https://www.youtube.com/watch?v=FE-ft3m6d_o -o 4
+ 1169  7zz x Daikoterayastro2_18_Plus.7z 
+ 1170  exit
+ 1171  7zz x Underparty.7z 
+ 1172  exit
+ 1173  7zz x Rose_and_the_Magic_Beast_ENG-v1.3-Windows_64-bit.7z 
+ 1174  exit
+ 1175  cd Downloads/
+ 1176  ls
+ 1177  cd ET
+ 1178  ls
+ 1179  yt-dlp https://www.youtube.com/watch?v=xJ86ZjMfoFQ
+ 1180  exit
+ 1181  7zz x RJ01292232\ Succubust.7z 
+ 1182  exit
+ 1183  docker
+ 1184  clear
+ 1185  docker-hub
+ 1186  docker --help
+ 1187  fzf docker
+ 1188  ls
+ 1189  exit
+ 1190  cd Desktop/
+ 1191  cd terminal\ changes\ and\ installed\ stuff/
+ 1192  ls
+ 1193  fuzzy
+ 1194  fzf
+ 1195  bat docker.txt 
+ 1196  cat docker.txt
+ 1197  docker-desktop
+ 1198  systemctl --user start docker-desktop
+ 1199  ls
+ 1200  fzf
+ 1201  snap list
+ 1202  sudo snap remove opera
+ 1203  sudo snap remove krita
+ 1204  sudo snap remove godot-4 
+ 1205  sudo snap refresh
+ 1206  fzf
+ 1207  sudo snap list
+ 1208  ls
+ 1209  fzf
+ 1210  fzf krita.txt | batcat
+ 1211  batcat krita.txt
+ 1212  nano krita.txt
+ 1213  history
+ 1214  fzf godot.txt 
+ 1215  fzf
+ 1216  nano godot.txt 
+ 1217  fzf
+ 1218  nano opera.txt
+ 1219  exit
+ 1220  nano batcat.txt
+ 1221  exit
+ 1222  nala
+ 1223  sudo nala install batcat
+ 1224  sudo nala install bat
+ 1225  batcat
+ 1226  cd exit
+ 1227  exit
+ 1228  ls
+ 1229  cd Downloads/
+ 1230  ls
+ 1231  exit
+ 1232  sudo snap list
+ 1233  sudo snap refresh
+ 1234  exit
+ 1235  7zz --version
+ 1236  7zz --v
+ 1237  7zz man
+ 1238  man 7zz
+ 1239  7zz --help
+ 1240  wine nw.exe 
+ 1241  clear
+ 1242  wine nw.exe 
+ 1243  exit
+ 1244  7zz x Marinas_Cuckolding_Report_2_Version_1_ENG.rar
+ 1245  exit
+ 1246  7zz x AMIRIAN.EAPR.V1581.20250130.zip
+ 1247  unrpa -mvp OPM images.rpa
+ 1248  7zz x Romantic_Escapades_v1.3.1.7z 
+ 1249  nano game_list.txt
+ 1250  exit
+ 1251  ./Cemu-2.1-x86_64.AppImage 
+ 1252  exit
+ 1253  7zz x Cataclyzm_PC_V0.30.rar
+ 1254  exit
+ 1255  unrpa -mvp OPM archive.rpa
+ 1256  exit
+ 1257  7zz x Udonge_in_Interspecies_Cave.rar 
+ 1258  exit
+ 1259  7zz x Udonge_in_Interspecies_Cave.rar 
+ 1260  exit
+ 1261  7zz x Escape_from_Zombie_U_NSFW_Edition_v2024-10-15.rar 
+ 1262  exit
+ 1263  ./gameripper 
+ 1264  exit
+ 1265  7zz x The_Lewd_Knight_0.96.rar -o OPM
+ 1266  7zz x The_Lewd_Knight_0.96.rar -o{OPM}
+ 1267  7zz x 0.96.1\ Cheat\ Rnero_BBC.7z 
+ 1268  exit
+ 1269  nano game_list.txt
+ 1270  exit
+ 1271  ./pixelorama_data/
+ 1272  ./Pixelorama.x86_64 
+ 1273  exit
+ 1274  cd Downloads/
+ 1275  cd pixelorama/
+ 1276  ls
+ 1277  cd Pixelorama-Linux-64bit/
+ 1278  ls
+ 1279  ./Pixelorama.x86_64 
+ 1280  exit
+ 1281  nano games_list_h.txt
+ 1282  exit
+ 1283  7zz x Gym_Mommy_1.0.2_PC_.zip 
+ 1284  exit
+ 1285  7zz x Gym_Mommy_1.0.2_Linux_.zip 
+ 1286  exit
+ 1287  ./game 
+ 1288  exit
+ 1289  conda activate p312
+ 1290  pip list
+ 1291  conda deactivate
+ 1292  exit
+ 1293  ./audacity-linux-3.5.1-x64.AppImage 
+ 1294  conda activate p312
+ 1295  pip install playsound3
+ 1296  exit
+ 1297  cd Downloads/
+ 1298  yt-dlp https://www.youtube.com/watch?v=mJRtkBmTmTQ
+ 1299  man yt-dlp
+ 1300  yt-dlp --help
+ 1301  yt-dlp https://www.youtube.com/watch?v=mJRtkBmTmTQ -f bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best  
+ 1302  yt-dlp -f bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best https://www.youtube.com/watch?v=mJRtkBmTmTQ
+ 1303  yt-dlp https://www.youtube.com/watch?v=mJRtkBmTmTQ -f
+ 1304  yt-dlp https://www.youtube.com/watch?v=mJRtkBmTmTQ -f 1080
+ 1305  yt-dlp https://www.youtube.com/watch?v=mJRtkBmTmTQ -f mp4
+ 1306  yt-dlp -f "bv*[height<=1080][ext=mp4]+ba[ext=m4a]/b[height<=1080][ext=mp4]" --merge-output-format mp4 https://www.youtube.com/watch?v=mJRtkBmTmTQ
+ 1307  exit
+ 1308  history
+ 1309  cd Desktop/
+ 1310  ls
+ 1311  nano new_linux_cmd.txt 
+ 1312  exit
+ 1313  cd Downloads
+ 1314  yt-dlp https://www.youtube.com/watch?v=r5egSuQK6S8
+ 1315  7zz x Pasec1.6.zip 
+ 1316  7zz x Queen-in-Deficit_0.29b_20250221.7z 
+ 1317  exit
+ 1318  ./gameripper 
+ 1319  apt-cache policy libsdl2-dev
+ 1320  cd Desktop/
+ 1321  nano new_linux_cmd.txt 
+ 1322  nala
+ 1323  clear
+ 1324  sudo nala install libsdl2-dev
+ 1325  sudo apt-get instal libsdl2-dev
+ 1326  sudo apt-get install libsdl2-dev
+ 1327  sudo nala install libsdl2-dev
+ 1328  exit
+ 1329  cd Desktop/
+ 1330  cd terminal\ changes\ and\ installed\ stuff/
+ 1331  nano pyxel.txt
+ 1332  python --version
+ 1333  conda activate p312
+ 1334  sudo pip3 install -U pyxel
+ 1335  exit
+ 1336  cd Downloads/
+ 1337  ls
+ 1338  mkdir pyxel
+ 1339  ls
+ 1340  cd pyxel/
+ 1341  conda activate p312
+ 1342  pyxel copy_examples
+ 1343  pyxel run 01_hello_pyxel.py
+ 1344  pyxel run pyxel_examples/01_hello_pyxel.py 
+ 1345  pyxel run pyxel_examples/tiled_map_file.py
+ 1346  pyxel run pyxel_examples/15_tiled_map_file.py
+ 1347  pyxel run pyxel_examples/03_draw_api.py 
+ 1348  pyxel run pyxel_examples/04_sound_api.py 
+ 1349  conda deactivate
+ 1350  exit
+ 1351  cd Desktop/
+ 1352  ls
+ 1353  nano new_linux_cmd.txt 
+ 1354  exit
+ 1355  dpkg -l| grep libsdl2-dev
+ 1356  dpkg -l| grep 
+ 1357  dpkg -l| grep as
+ 1358  dpkg --print-architecture 
+ 1359  uname -m
+ 1360  exit
+ 1361  pyxel
+ 1362  man pyxel
+ 1363  pyxel --help
+ 1364  exit
+ 1365  conda activate p312
+ 1366  /home/dantalian/Downloads/anaconda/installation/envs/p312/bin/python "/home/dantalian/Downloads/pyxel/pyxel_examples/practice/pyxel 1.py"
+ 1367  conda activate p312
+ 1368  conda deactivate
+ 1369  exit
+ 1370  conda activate p312
+ 1371  /home/dantalian/Downloads/anaconda/installation/envs/p312/bin/python "/home/dantalian/Downloads/pyxel/pyxel_examples/practice/pyxel 1.py"
+ 1372  conda activate p312
+ 1373  cd -
+ 1374  cd ..
+ 1375  cd pyxel/
+ 1376  ls
+ 1377  cd pyxel_examples/
+ 1378  ls
+ 1379  cd practice/
+ 1380  pyxel run pyxel\ 1.py 
+ 1381  pyxel play 07_snake.py 
+ 1382  exit
+ 1383  ./Catburglar.x86_64 
+ 1384  exit
+ 1385  wine LesbiAnts_Win.exe 
+ 1386  exit
+ 1387  conda activate p312
+ 1388  pip install pygame
+ 1389  pip remove pygame
+ 1390  pip uninstall pygame
+ 1391  exit
+ 1392  sudo nala install libgstreamer1.0-dev libgstreamer-plugins-base1.0-dev libgstreamer-plugins-bad1.0-dev gstreamer1.0-plugins-base gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly gstreamer1.0-libav gstreamer1.0-tools gstreamer1.0-x gstreamer1.0-alsa gstreamer1.0-gl gstreamer1.0-gtk3 gstreamer1.0-qt5 gstreamer1.0-pulseaudio
+ 1393  exit
+ 1394  gst-inspect-1.0 --version
+ 1395  exit
+ 1396  7zz x Rhyas_Crusade_The_Aradias_Reavers.7z 
+ 1397  exit
+ 1398  cd Desktop/terminal\ changes\ and\ installed\ stuff/
+ 1399  nano brave_browser.txtg
+ 1400  nano brave_browser.txt
+ 1401  exit
+ 1402  curl -fsSLO "https://dl.brave.com/install.sh{,.asc}" && gpg --keyserver hkps://keys.openpgp.org --recv-keys BF62821AFB16036A4ACABCCC87E072BD82960F4D && gpg --verify install.sh.asc
+ 1403  clear
+ 1404  cd Desktop/
+ 1405  nano barve_key.txt
+ 1406  exit
+ 1407  curl -fsSLO "https://dl.brave.com/install.sh{,.asc}" && gpg --keyserver hkps://keys.openpgp.org --recv-keys BF62821AFB16036A4ACABCCC87E072BD82960F4D && gpg --verify install.sh.asc
+ 1408  curl -fsS https://dl.brave.com/install.sh | sh
+ 1409  brave-browser
+ 1410  exit
+ 1411  7zz x VoidBound_English_-_0.6.5.7z 
+ 1412  exit
+ 1413  7zz x game-voidbound-\(80160\).rar 
+ 1414  exit
+ 1415  sudo nala remove gstreamer
+ 1416  sudo nala remove apt-get install libgstreamer1.0-dev libgstreamer-plugins-base1.0-dev libgstreamer-plugins-bad1.0-dev gstreamer1.0-plugins-base gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly gstreamer1.0-libav gstreamer1.0-tools gstreamer1.0-x gstreamer1.0-alsa gstreamer1.0-gl gstreamer1.0-gtk3 gstreamer1.0-qt5 gstreamer1.0-pulseaudio
+ 1417  sudo nala remove install libgstreamer1.0-dev libgstreamer-plugins-base1.0-dev libgstreamer-plugins-bad1.0-dev gstreamer1.0-plugins-base gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly gstreamer1.0-libav gstreamer1.0-tools gstreamer1.0-x gstreamer1.0-alsa gstreamer1.0-gl gstreamer1.0-gtk3 gstreamer1.0-qt5 gstreamer1.0-pulseaudio
+ 1418  sudo nala remove libgstreamer1.0-dev libgstreamer-plugins-base1.0-dev libgstreamer-plugins-bad1.0-dev gstreamer1.0-plugins-base gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly gstreamer1.0-libav gstreamer1.0-tools gstreamer1.0-x gstreamer1.0-alsa gstreamer1.0-gl gstreamer1.0-gtk3 gstreamer1.0-qt5 gstreamer1.0-pulseaudio
+ 1419  sudo nala update
+ 1420  sudo nala upgrade
+ 1421  sudo nala autoclean
+ 1422  nala -h
+ 1423  sudo nala clean
+ 1424  sudo nala list
+ 1425  sudo apt-get install --reinstall gstreamer1.0-plugins-base gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly
+ 1426  sudo apt-get install libgstreamer1.0-dev libgstreamer-plugins-base1.0-dev libgstreamer-plugins-bad1.0-dev gstreamer1.0-plugins-base gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly gstreamer1.0-libav gstreamer1.0-tools gstreamer1.0-x gstreamer1.0-alsa gstreamer1.0-gl gstreamer1.0-gtk3 gstreamer1.0-qt5 gstreamer1.0-pulseaudio
+ 1427  nano pass.txt
+ 1428  exot
+ 1429  exit
+ 1430  python3
+ 1431  python
+ 1432  python3
+ 1433  exit
+ 1434  apt-get install libgstreamer1.0-dev libgstreamer-plugins-base1.0-dev libgstreamer-plugins-bad1.0-dev gstreamer1.0-plugins-base gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly gstreamer1.0-libav gstreamer1.0-tools gstreamer1.0-x gstreamer1.0-alsa gstreamer1.0-gl gstreamer1.0-gtk3 gstreamer1.0-qt5 gstreamer1.0-pulseaudio
+ 1435  sudo apt-get install libgstreamer1.0-dev libgstreamer-plugins-base1.0-dev libgstreamer-plugins-bad1.0-dev gstreamer1.0-plugins-base gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly gstreamer1.0-libav gstreamer1.0-tools gstreamer1.0-x gstreamer1.0-alsa gstreamer1.0-gl gstreamer1.0-gtk3 gstreamer1.0-qt5 gstreamer1.0-pulseaudio
+ 1436  nala autoremove
+ 1437  sudo nala autoremove
+ 1438  sudo nala autopurge
+ 1439  sudo nala --fix-broken
+ 1440  nala -h
+ 1441  sudo nala update
+ 1442  sudo apt-get install gstreamer1.0-plugins-base:i386 gstreamer1.0-plugins-good:i386 gstreamer1.0-plugins-bad:i386 gstreamer1.0-plugins-ugly:i386
+ 1443  sudo nala install gstreamer1.0-plugins-base:i386 gstreamer1.0-plugins-good:i386 gstreamer1.0-plugins-bad:i386 gstreamer1.0-plugins-ugly:i386
+ 1444  sudo nala autoremove
+ 1445  sudo apt-get autoremove
+ 1446  sudo apt-get upgrade
+ 1447  sudo nala upgrade
+ 1448  shutdown now -r
+ 1449  rm -f build
+ 1450  rm build
+ 1451  rm -r build
+ 1452  mkdir -p ~/build
+ 1453  cd build
+ 1454  git clone https://github.com/brektrou/rtl8821CU.git
+ 1455  ifconfig
+ 1456  lsusb
+ 1457  sudo apt-get install dkms
+ 1458  sudo apt-get autoremove
+ 1459  clear
+ 1460  ./dkms-install.sh
+ 1461  lsusb
+ 1462  sudo usb_modeswitch -KW -v 2001 -p 331d
+ 1463  cd rtl8821CU/
+ 1464  make
+ 1465  sudo make install
+ 1466  ls /lib/modules/$(uname -r)/kernel/drivers/net/wireless/realtek/rtl8821cu
+ 1467  git clone https://gitlab.com/Petschko/RPG-Maker-MV-Decrypter.git
+ 1468  exit
+ 1469  7zz x Gestalt.Steam.and.Cinder.Soundtrack.Bundle.build.15836041.rar 
+ 1470  exit
+ 1471  7zz x G.S.a.C.V1.0.8.B15418720-GDZ.rar 
+ 1472  exit
+ 1473  cd Downloads/
+ 1474  yt-dlp https://www.youtube.com/watch?v=0fBSZKMBXPY
+ 1475  eexit
+ 1476  exit
+ 1477  cd Downloads
+ 1478  ls
+ 1479  mkdir bashscripts
+ 1480  rm -r bashscripts
+ 1481  ls
+ 1482  cd bashScripting/
+ 1483  ls
+ 1484  nano hellothere.sh 
+ 1485  ./hellothere.sh 
+ 1486  nano interactive.sh 
+ 1487  ./interactive.sh 
+ 1488  exit
+ 1489  7zz x timespinner.rar 
+ 1490  exit
+ 1491  7zz x MUGEN-HYPER-EDITION_v1.4.rar 
+ 1492  exit
+ 1493  nano mugen.txt
+ 1494  exit
+ 1495  7zz x Benefitship.rar 
+ 1496  exit
+ 1497  7zz x "Succubus Forest.7z" 
+ 1498  exit
+ 1499  wine succubus_Forest.exe 
+ 1500  exit
+ 1501  7zz x Succubus_Roulette.zip -o OPM
+ 1502  7zz x Succubus_Roulette.zip -oOPM
+ 1503  exit
+ 1504  7zz x Doki_Doki_Tri-line_Quest_nsfw_2.01.04_pi.zip -odoki
+ 1505  exit
+ 1506  glxinfo | grep "OPENGL version"
+ 1507  glxinfo
+ 1508  glxgears
+ 1509  glxinfo | grep "OpenGL version"
+ 1510  shutdown now
+ 1511  7zz x "Succubus Forest.7z" 
+ 1512  exitg
+ 1513  exit
+ 1514  unrpa -mvp OPM images_story_ani.rpa 
+ 1515  unrpa -mvp OPM2 images_girls_azrae.rpa 
+ 1516  unrpa -mvp OPM2 images_girls_azrae_ani.rpa 
+ 1517  exit
+ 1518  unrpa -mvp OPM3 images_story.rpa 
+ 1519  unrpa -mvp OPM4 images_story_ani.rpa.rpa 
+ 1520  unrpa -mvp OPM4 images_story_ani.rpa
+ 1521  exit
+ 1522  unrpa -mbp OPM5 images_side_quests_ani.rpa 
+ 1523  unrpa -mvp OPM5 images_side_quests_ani.rpa 
+ 1524  unrpa -mvp OPM6 images_side_quests.rpa 
+ 1525  exit
+ 1526  unrpa -mvp OPM archive.rpa 
+ 1527  exit
+ 1528  ./start-tor-browser.desktop 
+ 1529  exit
+ 1530  conda activate
+ 1531  pip list
+ 1532  fzf pip list
+ 1533  pip list | fzf
+ 1534  conda deactivate
+ 1535  conda activate p312
+ 1536  pip list | fzf
+ 1537  conda deactivate
+ 1538  exit
+ 1539  ./Pixelorama.x86_64 
+ 1540  exit
+ 1541  docker run --rm --pull always -p 3000:3000 clockworklabs/spacetime start
+ 1542  exit
+ 1543  cd Downloads/
+ 1544  cd machineLearning/
+ 1545  ls
+ 1546  ls | fzf
+ 1547  cd "krish udemy course"/
+ 1548  ls
+ 1549  ls -a
+ 1550  ls -d
+ 1551  ls |fzf
+ 1552  mkdir django_apps
+ 1553  cd django_apps/
+ 1554  ls
+ 1555  python -m django --version
+ 1556  conda activate p312
+ 1557  python -m django --version
+ 1558  django-admin --help
+ 1559  django-admin startproject --help
+ 1560  ls
+ 1561  cd app1
+ 1562  django-admin startproject portfolio website
+ 1563  mkdir website
+ 1564  django-admin startproject portfolio website
+ 1565  exit
+ 1566  docker run   --rm   --name django-todo-db   --env POSTGRES_PASSWORD=admin   --env POSTGRES_DB=django_todo   --volume django-pg-data:/var/lib/postgresql/data   --publish 5432:5432   postgres:bookworm
+ 1567  clear
+ 1568  lsl
+ 1569  ls
+ 1570  exit
+ 1571  cd Downloads/machineLearning/
+ 1572  ls | fzf
+ 1573  cd "krish udemy course"/
+ 1574  ls
+ 1575  cd django_apps/
+ 1576  ls
+ 1577  mkdir app2
+ 1578  cd app2
+ 1579  git clone https://github.com/sjgithubber/django-todo-app
+ 1580  ls
+ 1581  cd django-todo-app/
+ 1582  ls
+ 1583  codium .env
+ 1584  ls
+ 1585  source venv/bin/activate
+ 1586  pip3 install -r requirements.txt
+ 1587  python3 -m pip install --upgrade pip
+ 1588  sudo apt install libpq-dev python3-dev
+ 1589  pip3 install -r requirements.txt
+ 1590  python3 manage.py migrate
+ 1591  python3 manage.py runserver
+ 1592  source deactivate
+ 1593  deactivate
+ 1594  exit
+ 1595  conda activate p312
+ 1596  pip list
+ 1597  conda deactivate
+ 1598  'exit
+ 1599  ;
+ 1600  exit
+ 1601  conda activate
+ 1602  pip list
+ 1603  pip list | fzf
+ 1604  conda deactivate
+ 1605  exit
+ 1606  conda activate
+ 1607  pip list | fzf
+ 1608  conda deactivate
+ 1609  exit
+ 1610  conda activate
+ 1611  python3
+ 1612  conda deactivate
+ 1613  exit
+ 1614  conda activate, conda deactivate, exit
+ 1615  conda activate; conda deactivate; exit
+ 1616  cd Desktop/terminal\ changes\ and\ installed\ stuff/
+ 1617  cd ..
+ 1618  nano new_linux_cmd.txt 
+ 1619  exit
+ 1620  conda activate p312
+ 1621  /home/dantalian/Downloads/anaconda/installation/envs/p312/bin/python "/home/dantalian/Downloads/machineLearning/krish udemy course/flask/app_b/app_b.py"
+ 1622  conda activate
+ 1623  ls
+ 1624  cd flask/
+ 1625  ls
+ 1626  cd app_b
+ 1627  ls
+ 1628  python3 app_b.py
+ 1629  conda deactivate; conda activate; python3 app_b.py; conda deactivate
+ 1630  cd Downloads/machineLearning/
+ 1631  cd "krish udemy course"/
+ 1632  ls
+ 1633  cd flask/
+ 1634  ls
+ 1635  cd flask\ base/
+ 1636  ls
+ 1637  codium api.py
+ 1638  conda activate
+ 1639  pip list | fzf
+ 1640  exit
+ 1641  conda activate p312
+ 1642  /home/dantalian/Downloads/anaconda/installation/envs/p312/bin/python "/home/dantalian/Downloads/machineLearning/krish udemy course/flask/app_b/app_b.py"
+ 1643  conda activate
+ 1644  ls
+ 1645  'cd F
+ 1646  cd flask/
+ 1647  ls
+ 1648  cd app_b/
+ 1649  ls
+ 1650  python3 app_b.py 
+ 1651  conda activate
+ 1652  python3 app_b.py 
+ 1653  conda activate
+ 1654  pip list | fzf
+ 1655  conda deactivate
+ 1656  conda activate p312
+ 1657  pip list
+ 1658  conda deactivate
+ 1659  exit
+ 1660  cd Desktop/
+ 1661  nano supabase.txt
+ 1662  cd terminal\ changes\ and\ installed\ stuff/
+ 1663  nano supabase.txt
+ 1664  exit
+ 1665  cd Downloads/
+ 1666  yt-dlp https://www.youtube.com/watch?v=tMklfmvsIV8
+ 1667  exit
+ 1668  cd Downloads/machineLearning/
+ 1669  cd "krish udemy course"/
+ 1670  ls
+ 1671  mkdir django_apps/
+ 1672  ls
+ 1673  cd django_apps/
+ 1674  ls
+ 1675  mkdir app3
+ 1676  cd app3
+ 1677  conda activate p312
+ 1678  python -m venv venv
+ 1679  conda deactivate
+ 1680  ls
+ 1681  source venv/bin/activate
+ 1682  ls
+ 1683  python --version
+ 1684  pip list
+ 1685  pip install django psycopg2
+ 1686  pip freeze > requirements.txt
+ 1687  ls
+ 1688  mkdir web_app_with_database
+ 1689  django-admin startproject myproject web_app_with_database
+ 1690  ls
+ 1691  ls -a
+ 1692  tre
+ 1693  tree
+ 1694  tree web_app_with_database/
+ 1695  ls
+ 1696  source deactivate
+ 1697  deactivate
+ 1698  exit
+ 1699  cd Downloads/machineLearning/
+ 1700  cd "krish udemy course"/
+ 1701  ls
+ 1702  cd django_apps/
+ 1703  ls
+ 1704  cd app3
+ 1705  ls
+ 1706  source venv/bin/activate
+ 1707  sudo -u postgres psql
+ 1708  pip list
+ 1709  postgres psql
+ 1710  psql --version
+ 1711  deactivate
+ 1712  exit
+ 1713  ls | nano mods.txt
+ 1714  exit
+ 1715  fzf > files.txt
+ 1716  exit
+ 1717  ls | touch files.txt
+ 1718  touch files.txt; ls > files.txt
+ 1719  exit
+ 1720  source "/home/dantalian/Downloads/machineLearning/krish udemy course/django_apps/app3/venv/bin/activate"
+ 1721  "/home/dantalian/Downloads/machineLearning/krish udemy course/django_apps/app3/venv/bin/python3.12" "/home/dantalian/Downloads/machineLearning/krish udemy course/django_apps/app3/web_app_with_database/supabase_connect.py"
+ 1722  python3 django_apps/app3/web_app_with_database/supabase_connect.py 
+ 1723  source "/home/dantalian/Downloads/machineLearning/krish udemy course/django_apps/app3/venv/bin/activate"
+ 1724  "/home/dantalian/Downloads/machineLearning/krish udemy course/django_apps/app3/venv/bin/python3.12" "/home/dantalian/Downloads/machineLearning/krish udemy course/django_apps/app3/web_app_with_database/supabase_connect.py"
+ 1725  source "/home/dantalian/Downloads/machineLearning/krish udemy course/django_apps/app3/venv/bin/activate"
+ 1726  "/home/dantalian/Downloads/machineLearning/krish udemy course/django_apps/app3/venv/bin/python3.12" "/home/dantalian/Downloads/machineLearning/krish udemy course/django_apps/app3/web_app_with_database/supabase_connect.py"
+ 1727  exit
+ 1728  cd Downloads/
+ 1729  yt-dlp https://www.youtube.com/watch?v=Z4tSnK7XdD
+ 1730  yt-dlp https://www.youtube.com/watch?v=Z4tSnK7XdDg
+ 1731  exit
+ 1732  7zz x otomi-games.com_CM8FP8C8.rar -p otomi-games.com
+ 1733  7zz x otomi-games.com_CM8FP8C8.rar
+ 1734  exit
+ 1735  7zz x RJ01102919.zip 
+ 1736  exit
+ 1737  7zz x Castle_of_Vania_Demo_v2.zip 
+ 1738  7zz x Gyaru_Teachers_Lewd_Lessons_Pixel-Sex_Life_Sim_v101_Angel_Observer.zip 
+ 1739  exit
+ 1740  7zz x Vivid_Dead_Demo_Ext_v0.3.3.rar 
+ 1741  exit
+ 1742  7zz x DC-USA-VPK-ZIPERTO.RAR 
+ 1743  exit
+ 1744  7zz x DC-USA-VPK-ZIPERTO.RAR 
+ 1745  7zz x DOA3-V-ASIA-NoNpDrm-ZIPERTO.rar 
+ 1746  exit
+ 1747  ls > games.txt
+ 1748  nano ls
+ 1749  exit
+ 1750  ./deploy.sh 
+ 1751  exit
+ 1752  sudo ./setup.sh $USER
+ 1753  exit
+ 1754  ./start.sh 
+ 1755  clear
+ 1756  ./start.sh 
+ 1757  exit
+ 1758  ./start.sh 
+ 1759  exit
+ 1760  source "/home/dantalian/Downloads/machineLearning/krish udemy course/django_apps/app3/venv/bin/activate"
+ 1761  "/home/dantalian/Downloads/machineLearning/krish udemy course/django_apps/app3/venv/bin/python"
+ 1762  ./Cemu-2.1-x86_64.AppImage 
+ 1763  ./start.sh 
+ 1764  ./Cemu-2.1-x86_64.AppImage 
+ 1765  cd Downloads/
+ 1766  yt-dlp https://www.youtube.com/watch?v=C0zMWogztQs
+ 1767  exit
+ 1768  source venv/bin/activate
+ 1769  cd ..
+ 1770  cd app_practice/
+ 1771  ls
+ 1772  python manage.py runserver
+ 1773  mkdir app4
+ 1774  cd app4
+ 1775  python -m venv venv
+ 1776  conda activate p312
+ 1777  python3 -m venv venv
+ 1778  ls
+ 1779  conda deactivate
+ 1780  source venv/bin/activate
+ 1781  python --verseion
+ 1782  python --v
+ 1783  python --version
+ 1784  ls
+ 1785  pip list
+ 1786  pip install django
+ 1787  deactivatge
+ 1788  deactivate
+ 1789  conda activate
+ 1790  conda deactivate
+ 1791  conda activate p312
+ 1792  pip install --upgrade pip
+ 1793  conda deactivate
+ 1794  source venv/bin/activate
+ 1795  ls
+ 1796  pip list
+ 1797  django-admin startproject polls .
+ 1798  ls
+ 1799  python manage.py startapp polls
+ 1800  python manage.py startapp polls1
+ 1801  ls
+ 1802  tree polls
+ 1803  tree polls1
+ 1804  ls
+ 1805  clear
+ 1806  ls
+ 1807  python manage.py runserver
+ 1808  cd "~/home/dantalian/Downloads/machineLearning/krish udemy course/django_apps/app4/polls1/urls.py"
+ 1809  cd "~/home/dantalian/Downloads/machineLearning/krish udemy course/django_apps/app4/polls1/"
+ 1810  cd "/home/dantalian/Downloads/machineLearning/krish udemy course/django_apps/app4/polls1/"
+ 1811  cd ..
+ 1812  python manage.py runserver
+ 1813  ls
+ 1814  python3 manage.py makemigrations
+ 1815  python3 manage.py migrate
+ 1816  python manage.py runserver
+ 1817  python3 manage.py makemigrations polls1
+ 1818  python3 manage.py sqlmigrate polls1 0001
+ 1819  deactivate
+ 1820  exit
+ 1821  mkdir nikki
+ 1822  7zz x Aisai\ Nikki.zip -onikki
+ 1823  exit
+ 1824  cd Downloads/
+ 1825  yt-dlp https://www.youtube.com/watch?v=d7ok9OHfZ5w
+ 1826  cd "Downloads/machineLearning/krish udemy course"/
+ 1827  cd django_apps/
+ 1828  ls
+ 1829  cd app4/
+ 1830  ls
+ 1831  source venv/bin/activate
+ 1832  python manage.py migrate
+ 1833  python manage.py shell
+ 1834  pip list
+ 1835  deactivate
+ 1836  exit
+ 1837  7zz x Wandering_Sword_--_fitgirl-repacks.site_--_.part1.rar 
+ 1838  exit
+ 1839  kitty
+ 1840  exit
+ 1841  e3xit
+ 1842  exit
+ 1843  nautilus
+ 1844  nautilus -q
+ 1845  gnome-terminal --working-directory=$(nautilus --no-desktop --no-default-window --print-working-directory)
+ 1846  7zz x game-songs.of.conquest-\(79474\).rar 
+ 1847  exit
+ 1848  nano open-terminal-in-folder.sh
+ 1849  chmod +x open-terminal-in-folder.sh 
+ 1850  exit
+ 1851  cd Desktop | ./open-terminal-in-folder
+ 1852  cd Desktop | ./open-terminal-in-folder.sh
+ 1853  cd Desktop
+ 1854  ./open-terminal-in-folder.sh 
+ 1855  exit
+ 1856  nautilus --print-working-directory
+ 1857  nautilus --help
+ 1858  nautilus --display
+ 1859  nautilus -s
+ 1860  exit
+ 1861  7zz x DungeonSanctuary\ v0.5.7.9.zip 
+ 1862  exit
+ 1863  7zz x BusStop\ Yamimori\ ver.0.1.7.3.zip 
+ 1864  exit
+ 1865  7zz x sudachi-linux-v1.0.14.7z 
+ 1866  exit
+ 1867  ./sudachi 
+ 1868  ./sudachi
+ 1869  exit
+ 1870  7zz x torzu-master.zip 
+ 1871  exit
+ 1872  7zz x Citron-Linux-Canary-Refresh_0.6.1_native.tar.gz 
+ 1873  exit
+ 1874  7zz x Citron-Linux-Canary-Refresh_0.6.1_native.tar
+ 1875  exit
+ 1876  ./citron
+ 1877  exit
+ 1878  cd Downloads/machineLearning/
+ 1879  cd "krish udemy course"/
+ 1880  cd django_apps/
+ 1881  ls
+ 1882  cd app4
+ 1883  ls
+ 1884  source venv/bin/activate
+ 1885  django-admin inspectdb
+ 1886  ls
+ 1887  deactivate 
+ 1888  exit
+ 1889  ./download 
+ 1890  exit
+ 1891  apt list --installed | grep wine
+ 1892  exit
+ 1893  touch data.txt
+ 1894  bat databasesdream.txt 
+ 1895  batcat databasesdream.txt 
+ 1896  batcat databasesdream.txt > data.txt
+ 1897  batcat legendary.txt > data.txt
+ 1898  batcat databasesdream.txt > data.txt
+ 1899  exit
+ 1900  touch index.html
+ 1901  exit
+ 1902  py -3 -v
+ 1903  python -V
+ 1904  pip -V
+ 1905  cd Downloads/machineLearning/
+ 1906  cd "krish udemy course"/
+ 1907  ls
+ 1908  cd django_apps/
+ 1909  ls
+ 1910  cd app_practice/
+ 1911  ls
+ 1912  source venv/bin/activate
+ 1913  python -V
+ 1914  deactivate
+ 1915  exit
+ 1916  fzf github
+ 1917  fzf
+ 1918  cd Downloads/
+ 1919  fzf
+ 1920  exit
+ 1921  nano process.txt
+ 1922  exit
+ 1923  cd ..
+ 1924  source app_practice/venv/bin/activate
+ 1925  django-admin startproject practice app_practice
+ 1926  django-admin startproject project1 app_practice
+ 1927  cd app_practice/
+ 1928  ls
+ 1929  django-admin startapp 
+ 1930  django-admin startapp hello_world project1
+ 1931  cd ..
+ 1932  django-admin startproject project1 app_practice
+ 1933  cd app_practice/
+ 1934  django-admin startapp hello_world
+ 1935  ls
+ 1936  python manage.py startapp hello_world
+ 1937  python manage.py runserver
+ 1938  python manage.py makemigrations
+ 1939  python manage.py migrate
+ 1940  python manage.py runserver
+ 1941  python manage.py makemigrations
+ 1942  python manage.py migrate
+ 1943  python manage.py runserver
+ 1944  deactivate
+ 1945  exit
+ 1946  cd Downloads/machineLearning/
+ 1947  cd "krish udemy course"/
+ 1948  cd django_apps/
+ 1949  ls
+ 1950  mkdir django_practice_git
+ 1951  cd django_practice_git/
+ 1952  git clone https://github.com/sjgithubber/django-practice.git
+ 1953  ls
+ 1954  cd django-practice/
+ 1955  ls
+ 1956  git fetch origin main
+ 1957  git pull origin main
+ 1958  git log
+ 1959  git branch
+ 1960  git branch -r
+ 1961  git branch -a
+ 1962  git branch dev
+ 1963  git branch -a
+ 1964  git checkout dev
+ 1965  git branch -a
+ 1966  mkdir git_cheat_sheet
+ 1967  touch ./git_cheat_sheet/readme.md
+ 1968  git add ./git_cheat_sheet/
+ 1969  git log
+ 1970  git commit -m "adding new git cheat sheet" ./git_cheat_sheet/readme.md 
+ 1971  git log
+ 1972  git push 
+ 1973  git push --set-upstream origin dev
+ 1974  git log
+ 1975  gh auth login
+ 1976  git push 
+ 1977  git push --set-upstream origin dev
+ 1978  gh auth logout
+ 1979  git push --set-upstream origin dev
+ 1980  man gh
+ 1981  exit
+ 1982  git log
+ 1983  cd Downloads/machineLearning/
+ 1984  cd "krish udemy course"/
+ 1985  cd django_apps/
+ 1986  ls
+ 1987  cd django_practice_git/
+ 1988  ls
+ 1989  git lo
+ 1990  ls
+ 1991  cd django-practice/
+ 1992  ls
+ 1993  git log
+ 1994  man git
+ 1995  exit
+ 1996  cd Downloads/
+ 1997  yt-dlp https://www.youtube.com/watch?v=_80w4aOPJbg
+ 1998  exit
+ 1999  cd "Downloads/machineLearning/krish udemy course/django_apps"/
+ 2000  ls
+ 2001  mkdir resume_website_project
+ 2002  conda activate
+ 2003  cd resume_website_project/
+ 2004  conda deactivate
+ 2005  conda activate p312
+ 2006  python -m venv venv
+ 2007  ls
+ 2008  conda deactivate; source venv/bin/activate
+ 2009  pip install Django
+ 2010  pip install --upgrade pip
+ 2011  ls
+ 2012  mkdir resume_website
+ 2013  django-admin startproject resume_website .
+ 2014  ls
+ 2015  cd resume_website/
+ 2016  ls
+ 2017  cd ..
+ 2018  django-admin startapp resume_layout .
+ 2019  ls
+ 2020  git init
+ 2021  git log
+ 2022  git commit -m "created repo"
+ 2023  git add
+ 2024  git add views.py models.py test.py
+ 2025  git add views.py models.py tests.py
+ 2026  git log
+ 2027  git commit -m "created repo"
+ 2028  git log
+ 2029  gh auth login
+ 2030  git pull
+ 2031  git add .
+ 2032  git log
+ 2033  git checkout -b dev
+ 2034  git diff
+ 2035  git commit -m "Created dev branch"
+ 2036  git log
+ 2037  git push
+ 2038  git remote add origin https://github.com/sjgithubber/resume_website_project.git
+ 2039  git push -u origin main
+ 2040  git remote add origin https://github.com/sjgithubber/resume_website_project.git
+ 2041  git push -u origin main
+ 2042  git fetch
+ 2043  git branch
+ 2044  git push
+ 2045  git log
+ 2046  git checkout main
+ 2047  git branch
+ 2048  git log
+ 2049  git pull
+ 2050  ls
+ 2051  conda activate p312
+ 2052  deactivate
+ 2053  conda deactivate p312
+ 2054  conda activate p312
+ 2055  python -m venv venv; git commit -m "created venv using python to install django"
+ 2056  git add
+ 2057  git add .
+ 2058  ls
+ 2059  pip install Django
+ 2060  conda deactivate
+ 2061  source venv/bin/activate
+ 2062  pip install Django; git commit -m "installed django using pip"
+ 2063  git log
+ 2064  mkdir resume_website
+ 2065  django-admin startproject resume_website resume_website
+ 2066  ls
+ 2067  cd resume_website/
+ 2068  ls
+ 2069  rm -f resume_website/
+ 2070  rm -r resume_website/
+ 2071  rm -f manage.py 
+ 2072  ls
+ 2073  cd ..
+ 2074  django-admin startproject resume_website .
+ 2075  ls
+ 2076  cd resume_website/
+ 2077  ls
+ 2078  cd ..
+ 2079  ls
+ 2080  cd resume_website/
+ 2081  ls
+ 2082  mkdir resume_app
+ 2083  cd resume_app/
+ 2084  django-admin startapp resume_app .
+ 2085  ls
+ 2086  cd ..
+ 2087  ls
+ 2088  cd ..
+ 2089  ls
+ 2090  python manage.py runserver
+ 2091  git commit -m "created the web_app and prproject files"
+ 2092  git add .
+ 2093  git push
+ 2094  gh auth login
+ 2095  python manage.py makemigrations
+ 2096  python manage.py migarate
+ 2097  python manage.py migrate
+ 2098  python manage.py runserver
+ 2099  ls
+ 2100  git push
+ 2101  git add .
+ 2102  ls
+ 2103  git push
+ 2104  git pull
+ 2105  ls
+ 2106  git log
+ 2107  git add .
+ 2108  ls
+ 2109  source deactivate
+ 2110  deactivate
+ 2111  ls
+ 2112  git push
+ 2113  ls
+ 2114  source venv/bin/activate
+ 2115  ls
+ 2116  git add resume_website/
+ 2117  ls
+ 2118  git-status
+ 2119  git status
+ 2120  git commit -m "created django project and web app"
+ 2121  git push
+ 2122  git status
+ 2123  git show branch
+ 2124  git show-branch
+ 2125  git log
+ 2126  git checkout dev
+ 2127  git log
+ 2128  git commit -m "switched to branch dev, going to merge later"
+ 2129  git push
+ 2130  git push --set-upstream origin dev
+ 2131  history > log1.txt
